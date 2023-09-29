@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://twitter.com/Deviishaaa](https://twitter.com/Deviishaaa)
 
-- ⚡ Fact **I am a Kathak Dancer**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
