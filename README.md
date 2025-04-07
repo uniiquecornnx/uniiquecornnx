@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/uniiquecornnx](https://github.com/uniiquecornnx)
 
-- 📝 I regularly write articles on [https://twitter.com/Deviishaaa](https://twitter.com/Deviishaaa)
+- 📝 let's connect on [https://twitter.com/_devisha](https://twitter.com/_devisha)
 
 
 
