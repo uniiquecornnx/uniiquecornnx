@@ -7,7 +7,7 @@
 
 - 👨‍💻 My portfolio [here](https://portfolio-phi-nine-lca36ejeg5.vercel.app/)
 
-- 📝 let's connect on [https://twitter.com/_devisha](https://twitter.com/_devisha)
+- 📝 let's connect on [X](https://twitter.com/_devisha)
 
 
 
