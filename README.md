@@ -7,7 +7,7 @@
 
 - 👨‍💻 My portfolio [here](https://portfolio-phi-nine-lca36ejeg5.vercel.app/)
 
-- 📝 let's connect on [X](https://twitter.com/_devisha)
+- 📝 let's connect on [X](https://twitter.com/_devisha) , [Farcaster](https://farcaster.xyz/devisha) , [LinkedIn](https://www.linkedin.com/in/devisha-gupta-10a304232/)
 
 
 
