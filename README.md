@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uniiquecornnx&label=Profile%20views&color=0e75b6&style=flat" alt="uniiquecornnx" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/uniiquecornnx](https://github.com/uniiquecornnx)
+- 👨‍💻 My portfolio [https://portfolio-phi-nine-lca36ejeg5.vercel.app/](https://portfolio-phi-nine-lca36ejeg5.vercel.app/)
 
 - 📝 let's connect on [https://twitter.com/_devisha](https://twitter.com/_devisha)
 
