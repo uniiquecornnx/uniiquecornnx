@@ -1,5 +1,5 @@
-<h1 align="center">gm, I'm Devisha</h1>
-<h3 align="center">Coding my way to luxe</h3>
+<h1 align="center">hi, i'm Devisha</h1>
+<h3 align="center">coding my way to luxe</h3>
 
 
 
