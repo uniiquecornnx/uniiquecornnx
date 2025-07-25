@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Devisha Gupta</h1>
-<h3 align="center">A passionate Blockchain developer</h3>
+<h1 align="center">gm, I'm Devisha</h1>
+<h3 align="center">Coding my way to luxe</h3>
 
 
 
